@@ -1,2 +1,2 @@
-# mac_changer
-A simple Mac address changer by Ravehorn.
+# MAC Address Changer
+A simple MAC address changer by Ravehorn.
